@@ -1,0 +1,7 @@
+{
+  "name": "NexusAI SaaS Platform",
+  "description": "A comprehensive AI-powered automation dashboard for small businesses featuring CRM, AI Receptionist analytics, and intelligent Email drafting.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
